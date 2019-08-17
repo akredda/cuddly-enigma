@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  background-image: url("gradient_bg.png");
-}
-</style>
+
 <body>
 
 <h1>Camel Wave</h1>
