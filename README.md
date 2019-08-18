@@ -14,8 +14,6 @@
 
 <h3> Want to buy a Camel </h3>
 <p>submit your contact information here</p>
-
-<iframe src="https://www.cnn.com/2018/03/14/vr/camel-trek-empty-quarter-vr/index.html" height="100" width="100"></iframe>
-</html>
+<iframe src="https://www.cnn.com/2018/03/14/vr/camel-trek-empty-quarter-vr/index.html></iframe>
  
 
