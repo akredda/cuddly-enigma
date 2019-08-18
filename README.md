@@ -11,16 +11,12 @@
 <h2> <img src="One.jpg" alt="Camel"></h2>
  <p>The place to rent</p>
 <p><strong>Live with the camels.</strong></p></body>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
 
-<script>
-function myFunction() {
-  document.getElementById("demo").style.fontSize = "25px"; 
-  document.getElementById("demo").style.color = "red";
-  document.getElementById("demo").style.backgroundColor = "yellow";        
-}
-</script>
+<p id="demo"></p>
 
-<button type="button" onclick="myFunction()">Click Me to see if you win!</button>
 <h3>Want to buy a Camel </h3>
 <p>submit your contact information here</p>
 <iframe src="https://www.cnn.com/2018/03/14/vr/camel-trek-empty-quarter-vr/index.html"></iframe>
