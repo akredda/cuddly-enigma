@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+<h1> Camel Industries </h1>
 </head>
  
  <body>
