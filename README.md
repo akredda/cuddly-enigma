@@ -17,9 +17,9 @@ h2 {
 Born and raised in Tallahassee, Florida, Aaron Redda has big dreams currently a 2x graduate of Florida A&M Universuty pursing a second masters degree at Florida State University while working full time in State government. 
 </blockquote>
 <div>
-<p class="head">Interests</p>
+<p class="head">Education Profile</p>
   <ul>
-    <li>Drawing</li>
+    <li><a href="http://www.wiltonhighschool.org/pages/Florida A&M Uinversity"></li>
     <li>Photography</li>
     <li>Design</li>
     <li>Programming</li>
