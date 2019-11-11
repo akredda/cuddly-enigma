@@ -19,7 +19,7 @@ Born and raised in Tallahassee, Florida, Aaron Redda has big dreams currently a 
 <div>
 <p class="head">Education Profile</p>
   <ul>
-    <a href="https://www.famu.edu/pages/Florida A&M Uinversity">
+    <a href="https://www.famu.edu/Florida A&M Uinversity">
     <li>Photography</li>
     <li>Design</li>
     <li>Programming</li>
