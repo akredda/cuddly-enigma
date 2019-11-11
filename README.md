@@ -19,7 +19,7 @@ Born and raised in Tallahassee, Florida, Aaron Redda has big dreams currently a 
 <div>
 <p class="head">Education Profile</p>
   <ul>
-    <li><a href="http://www.wiltonhighschool.org/pages/Florida A&M Uinversity"></li>
+    <a href="https://www.famu.edu/pages/Florida A&M Uinversity">
     <li>Photography</li>
     <li>Design</li>
     <li>Programming</li>
