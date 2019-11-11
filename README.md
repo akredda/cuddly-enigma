@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Aaron's Biography</title>
+</head>
 <style>
 h1 {
   color: black;
