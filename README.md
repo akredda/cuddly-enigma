@@ -25,7 +25,7 @@ h2 {
   top: 150px;
 }
 </style>
-  <h1>Aaron Redda's Professional Profile</h1>
+  <h1>Aaron Redda's Education Profile</h1>
   <br><br>
 <h2>Aaron's Introduction</h2>
 <div><img src="0.jpg" alt="Aaron Redda"></div>
