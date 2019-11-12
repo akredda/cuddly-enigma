@@ -19,6 +19,11 @@ div {
   padding: 50px;
   margin: 20px;
 }
+h2 {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
 </style>
   <h1>Aaron Redda's Professional Profile</h1>
   <br><br>
