@@ -12,7 +12,7 @@ h2 {
   color: black;
   text-align: center;
 </style>
-  <h1>Aaron Redda's Resume</h1>
+  <h1>Aaron Redda's Professional Profile</h1>
   <br><br>
 <h2>Aaron's Introduction</h2>
 <img src="0.jpg" alt="Aaron Redda">
