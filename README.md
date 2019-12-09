@@ -49,4 +49,4 @@ Born and raised in Tallahassee, Florida, Aaron Redda has big dreams currently a 
 <p><strong>Degree Program:</strong> Bachelor of Science in Economics</p>
 
 
-<a href="food.html">Check this link out to see my support system!</a>
+<a href="family.html">Check this link out to see my support system!</a>
