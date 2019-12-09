@@ -29,7 +29,7 @@ h2 {
   <br><br>
 <article>
   <header>
-<h2>Aaron's Introduction</h2>
+<h2>Aaron's Picture</h2>
 </header>
 </article>
 <div><img src="0.jpg" alt="Aaron Redda"></div>
