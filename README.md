@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Aaron's Biography</title>
+<link rel="stylesheet" type="text/css" href="public.css">
 </head>
 <style>
 h1 {
