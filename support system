@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.relative {
+  position: relative;
+  left: 30px;
+  border: pink;
+}
+</style>
+</head>
+<body>
+<div class="relative">
+Being a family means you are a part of something very wonderful. 
+It means you will love and be loved for the rest of your life.";
+</div>
+</body>
+</html>
